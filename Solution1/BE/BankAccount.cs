@@ -16,7 +16,7 @@ namespace BE
         }
 
     }
-
+//this project is public
     public class BankBranch
     {
         string BankName;
